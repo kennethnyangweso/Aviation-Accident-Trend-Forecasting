@@ -1,6 +1,6 @@
 # ✈️ ACCIDENT TREND FORECASTING
 
-**Forecasting the yearly number of aviation accidents (1962–2022) using ARIMA, SARIMA, and Prophet models.**
+**Forecasting the yearly number of aviation accidents (1962–2022) using ARIMA and Prophet models.**
 
 Prophet was selected as the best-performing model based on forecast accuracy.
 
@@ -49,6 +49,8 @@ Preprocessing:
 **Tableau interactive dashboard**
 
 <img width="1181" height="511" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/4fd2cc56-fe36-45ab-9657-65bbc1b03d50" />
+
+Link : https://public.tableau.com/app/profile/kenneth.nyangweso/viz/PHASEPROJECTINTERACTIVEDASHBOARD/DSFPH1DASHBOARD
 
 ## **🧠 Forecasting Models**
 
