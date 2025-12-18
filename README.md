@@ -91,6 +91,18 @@ Key Insight: Prophet produced the most reliable forecasts and captured long-term
 | ARIMA  | 89.21  | 112.48 |
 | Prophet| 79.96  | 100.41 |
 
+# **🛠 Tools & Technologies**
+
+1. Python - programming language
+
+2. Pandas, NumPy – data handling
+
+3. Matplotlib, Seaborn – visualization
+
+4. Statsmodels – ARIMA & SARIMA
+
+5. Facebook Prophet – time-series forecasting
+
 ## **📥 How to Use / Run**
 
 1. Clone the repo
