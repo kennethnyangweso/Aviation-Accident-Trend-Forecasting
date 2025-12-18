@@ -46,6 +46,11 @@ Preprocessing:
 
 <img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/fbe4740c-79b9-49f2-b420-4e0416a1ce8c" />
 
+**Monthly aviation accident count**
+
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/51221dd1-74e1-4ba6-b3db-8c513e81b085" />
+
+
 **Tableau interactive dashboard**
 
 <img width="1181" height="511" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/4fd2cc56-fe36-45ab-9657-65bbc1b03d50" />
