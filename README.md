@@ -14,7 +14,7 @@ This project analyzes historical aviation accident data to identify long-term tr
 
 2. Forecast future yearly accident counts
 
-3. Compare time-series models (ARIMA, SARIMA, Prophet)
+3. Compare time-series models (ARIMA, Prophet)
 
 4. Identify the best model for reliable forecasts
 
