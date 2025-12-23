@@ -1,9 +1,21 @@
 # ✈️ ACCIDENT TREND FORECASTING
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-006699?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-2E8B57)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?logo=scikitlearn&logoColor=white)
+![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-ff6f61)
+![Prophet](https://img.shields.io/badge/Prophet-Forecasting-1abc9c)
+![Forecasting](https://img.shields.io/badge/Forecasting-Time%20Series-F39C12)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-F9AB00?logo=googlecolab&logoColor=white)
+![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)
 
 **Forecasting the yearly number of aviation accidents (1962–2022) using ARIMA and Prophet models.**
 
 Prophet was selected as the best-performing model based on forecast accuracy.
 
+---
 ## **📌 Project Purpose**
 
 This project analyzes historical aviation accident data to identify long-term trends and forecast future yearly accident counts. Insights from this analysis support aviation safety evaluation and policy planning.
@@ -18,6 +30,8 @@ This project analyzes historical aviation accident data to identify long-term tr
 
 4. Identify the best model for reliable forecasts
 
+---
+
 ## **🗂 Dataset**
 
 Source: **NTSB Aviation Accident Dataset (1962–2022)**
@@ -30,6 +44,8 @@ Preprocessing:
 
 3. Handled missing or inconsistent values
 
+---
+
 ## **📈 Exploratory Data Analysis (EDA)**
 
 **Key observations:**
@@ -39,6 +55,8 @@ Preprocessing:
 - Peaks and declines correlate with industry regulation and technological changes
 
 - COVID-19 caused a noticeable dip in 2020
+
+---
 
 ### **📊 Visualization:**
 
@@ -50,6 +68,7 @@ Preprocessing:
 
 <img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/51221dd1-74e1-4ba6-b3db-8c513e81b085" />
 
+---
 
 **Tableau interactive dashboard**
 
@@ -57,6 +76,7 @@ Preprocessing:
 
 Link : https://public.tableau.com/app/profile/kenneth.nyangweso/viz/PHASEPROJECTINTERACTIVEDASHBOARD/DSFPH1DASHBOARD
 
+---
 ## **🧠 Forecasting Models**
 
 **Models implemented:**
@@ -83,6 +103,8 @@ Key Insight: Prophet produced the most reliable forecasts and captured long-term
 
 - Confidence intervals account for potential variability in future trends
 
+---
+
 ### **Model Comparison**
 
     
@@ -90,6 +112,8 @@ Key Insight: Prophet produced the most reliable forecasts and captured long-term
 |--------|--------|--------|
 | ARIMA  | 89.21  | 112.48 |
 | Prophet| 79.96  | 100.41 |
+
+---
 
 # **🛠 Tools & Technologies**
 
@@ -103,6 +127,8 @@ Key Insight: Prophet produced the most reliable forecasts and captured long-term
 
 5. Facebook Prophet – time-series forecasting
 
+---
+
 ## **📥 How to Use / Run**
 
 1. Clone the repo
@@ -112,10 +138,12 @@ Key Insight: Prophet produced the most reliable forecasts and captured long-term
 2. Install dependencies
 
        pip install -r requirements.txt
-
+ 
 3. Run / explore notebooks
 
 - Open DSF_PHASE_1_Project...ipynb in Jupyter to explore EDA and modeling.
+
+---
 
 ## **🔮 Future Improvements**
 
@@ -124,6 +152,8 @@ Key Insight: Prophet produced the most reliable forecasts and captured long-term
 2. Integrate external variables (weather, regulations) for improved forecasting
 
 3. Explore LSTM or other deep learning models for time-series prediction
+
+---
 
 ## **👤 Author**
 
