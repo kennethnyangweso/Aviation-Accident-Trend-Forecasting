@@ -1,4 +1,5 @@
-# ✈️ ACCIDENT TREND FORECASTING
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0eb16977-656d-43f5-a08e-e2ee5a4cca2f" />
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
